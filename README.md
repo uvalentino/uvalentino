@@ -13,15 +13,13 @@
   
 <h2>📜 Certifications </h2>
 
- - [terraform-aws-3-tier-architecture](https://github.com/uvalentino/terraform-aws-three-tier-vpc-architecture/tree/master)
+ - [AWS Certified Developer – Associate](https://www.credly.com/badges/169c32fb-cce7-4958-81b5-d2e8383e7fd9/linked_in_profile)
+ - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/359dc2d9-3368-4837-b973-8c4a8625d888/linked_in_profile)
+ - [Kubernetes for the Absolute Beginners - Hands-on ](https://www.udemy.com/certificate/UC-f7dde640-7e2b-46e4-a3dd-3acbd9f8d193/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+ - [Docker Training Course for the Absolute Beginner](https://kodekloud.com/certificate-verification/2DEF3D655570-2DEF3760CE74-2DEF31C73EA8/)
+ - [Jenkins](https://kodekloud.com/certificate-verification/2DEF3D655570-2DFABE49675F-2DEF31C73EA8/)
+ - [Terraform Basics Training Course](https://kodekloud.com/certificate-verification/2DEF3D655570-2DEF376F75A0-2DEF31C73EA8/)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
