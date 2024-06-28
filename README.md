@@ -1,4 +1,4 @@
-<h1>Hi, I'm Valentino!, <a> I'm a DevOps Engineer </a>
+<h1>Hi, I'm Valentino!, <a>a DevOps Engineer </a>
 
 <h2>👨‍💻 Cloud Projects </h2>
 
