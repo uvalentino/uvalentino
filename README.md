@@ -1,11 +1,19 @@
-<h1>Hi, I'm Valentino! 
+<h1>Hi, I'm Valentino!, <a> I'm a DevOps Engineer </a>
 
-<h2>👨‍💻 DevOps Projects:</h2>
+<h2>👨‍💻 Cloud Projects </h2>
 
   - [End to End CI/CD pipeline with Jenkins](https://github.com/uvalentino/End-to-end-CI-CD-pipeline-with-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)
   - [Automating Infrastructure Deployment with GitLab CI](https://github.com/uvalentino/Automating-Infrastructure-Deployment-with-GitLab-CI)
-  - [terraform-aws-3-tier-architecture](https://github.com/uvalentino/terraform-aws-three-tier-vpc-architecture/tree/master)
+  - [Setting up infrastructure on AWS with Terraform](https://github.com/uvalentino/Setting-up-infrastructure-on-AWS-with-Terraform)
+  - [Terraform aAWS 3-Tier Architecture](https://github.com/uvalentino/terraform-aws-three-tier-vpc-architecture/tree/master)
+  - [Deploy a Node.js app on AWS](https://github.com/uvalentino/Deploy-a-Node.js-app-on-AWS/tree/main)
+  - [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+  - [Create a CRUD HTTP API with Lambda and DynamoDB](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html#http-api-dynamo-db-create-table)
+    
   
+<h2>📜 Certifications </h2>
+
+ - [terraform-aws-3-tier-architecture](https://github.com/uvalentino/terraform-aws-three-tier-vpc-architecture/tree/master)
 
 <h2>📺 Popular YouTube Videos</h2>
 
