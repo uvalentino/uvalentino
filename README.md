@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects </h2>
 
   - [End to End CI/CD pipeline with Jenkins](https://github.com/uvalentino/End-to-end-CI-CD-pipeline-with-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)
+  - [End to End CI/CD pipeline with Gitlab](https://github.com/uvalentino/docker-voting-app)
     
     
   
