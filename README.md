@@ -1,6 +1,6 @@
-<h1>Hi, I'm Valentino!, <a>a DevOps Engineer </a>
+<h1>Hi, I'm <a>a DevOps Engineer </a>
 
-<h2>👨‍💻 Cloud Projects </h2>
+<h2>👨‍💻 Projects </h2>
 
   - [End to End CI/CD pipeline with Jenkins](https://github.com/uvalentino/End-to-end-CI-CD-pipeline-with-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)
     
