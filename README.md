@@ -9,7 +9,6 @@
   
 <h2>📜 Certifications </h2>
 
- - [AWS Certified Developer – Associate](https://www.credly.com/badges/169c32fb-cce7-4958-81b5-d2e8383e7fd9/linked_in_profile)
  - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/359dc2d9-3368-4837-b973-8c4a8625d888/linked_in_profile)
    
 
