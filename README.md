@@ -4,7 +4,7 @@
 
   - [End to End CI/CD pipeline with Gitlab](https://github.com/uvalentino/docker-voting-app)
   - [AWS Cloud Cost Optimization - Identifying Stale Resources](https://github.com/uvalentino/Cloud_Cost_Optimization)
-  - [Automating-EC2-Instance-Start-Stop-for-Cost-Optimization](https://github.com/uvalentino/Automating-EC2-Instance-Start-Stop-for-Cost-Optimization)
+  - [Automating EC2 Instance Start-Stop for Cost Optimization](https://github.com/uvalentino/Automating-EC2-Instance-Start-Stop-for-Cost-Optimization)
     
     
   
